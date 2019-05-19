@@ -67,7 +67,6 @@ public class DN09 {
 
 
 
-
 }
 class DateTime {
     int leto;
@@ -160,6 +159,7 @@ class FinancialInstrument{
 
     FinancialInstrument{
 
+
     }
 
 
@@ -182,10 +182,11 @@ class FinancialInstrument{
         return 0.32421;
     }
     Double najvisjaVrednot(){
+        ;
 
     }
     Double najnizjaVrednost(){
-
+        ;
     }
 
 
